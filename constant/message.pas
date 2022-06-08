@@ -1,7 +1,7 @@
 program message;
 const 
-	message_text = 'Hello in the hell';
-	count = 20;
+	message_text = 'Hello in the hell'; {what to print}
+	count = 20; 			    {How many times}
 var 
 	i: integer;
 begin
